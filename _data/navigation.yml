@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "dreamatorium"
-    url:
+    url:http://localhost:4000
   # - title: "About"
   #   url:  google.com
   # - title: "Sample Posts"
