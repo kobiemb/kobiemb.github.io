@@ -3,9 +3,9 @@ main:
   - title: "About1"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-     url:  kobiemb.github.io
+     url:  /about/
   - title: "Projects"
-     url: kobiemb.github.io
+     url: /projects/
    - title: "Rig"
      url: /collection-archive/
    - title: "Sitemap"
