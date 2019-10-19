@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "-"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Kobie Mensah-Brown"
+name                     : "-"
 description              : "A Surgery Hardo with a Computer Problem"
 url                      : # the base hostname & protocol for your site e.g. "https://kobiemb.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
